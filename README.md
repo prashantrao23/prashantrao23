@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prashantrao23
 - 👀 I’m interested in Full stack developer
-- 🌱 I’m currently learning Angular and django
+- 🌱 I’m currently learning React
 - 📫 How to reach me you can mail me on " prashantrao122@gmail.com "
 
 <!---
